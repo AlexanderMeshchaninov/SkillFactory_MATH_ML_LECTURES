@@ -8,3 +8,8 @@
 * [PART-2 - "Виды распределений, наивный Байесовский классификатор, теория вероятностей, алгоритмы на основе деревьев, ансамблевые модели, кластеризация, понижение размерности" - теория и практика](https://github.com/AlexanderMeshchaninov/SkillFactory_MATH_ML_LECTURES/tree/main/MATH_ML_Part_2);
 
 * [PART-3 - "Временные ряды, интерполяция и сэмплирование, предсказательные модели, рекомендательные системы" - теория и практика](https://github.com/AlexanderMeshchaninov/SkillFactory_MATH_ML_LECTURES/tree/main/MATH_ML_Part_3);
+
+__Дополнительно__:
+Тут ссылки на отдельные датасеты, которые потребуются для полноценной работы.
+  * [MATH_ML_Part_2](https://disk.yandex.ru/d/AhJSpDwNvuh-dw)
+  * [MATH_ML_Part_3](https://disk.yandex.ru/d/Tcs_W7DulLWCcQ)
